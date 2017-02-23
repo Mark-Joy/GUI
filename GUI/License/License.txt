@@ -1,0 +1,6 @@
+QT library is used in GUI. The QT library and its use are covered by GNU Lesser General Public License version 3.
+As such, GUI is available under the GNU Lesser General Public License version 3.
+
+See the License-LGPL-3.0.txt for more details.
+
+Copyright (c) 2017, Mark Joy. All rights reserved.
